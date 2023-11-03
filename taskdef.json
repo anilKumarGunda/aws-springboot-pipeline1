@@ -2,7 +2,7 @@
   "containerDefinitions": [
     {
       "name": "MathServiceContainer",
-      "image": "99999999999.dkr.ecr.ap-southeast-1.amazonaws.com/mathservice:latest",
+      "image": "754316338223.dkr.ecr.eu-west-2.amazonaws.com/mathsservice:latest",
       "memory": 128,
       "cpu": 100,
       "essential": true,
